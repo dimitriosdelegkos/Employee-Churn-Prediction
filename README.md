@@ -1,5 +1,6 @@
 # Employee Churn Prediction
 > Data science project
+> Moreover, there is a demo [_here_](https://share.streamlit.io/dimitriosdelegkos/employee-churn-streamlit/app.py).
 
 
 ## Overview
